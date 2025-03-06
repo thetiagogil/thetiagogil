@@ -1,4 +1,4 @@
-<h2>Hi 👋 I'm Tiago</h2>
+<h2>Hi, I'm Tiago 👋</h2>
 
 I'm a Full-stack Developer with a Master's Degree in Architecture!
 
