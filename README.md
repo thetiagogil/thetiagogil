@@ -6,10 +6,10 @@ Currently focused on building web applications with **React, Next.js, TypeScript
 <h2 class="hr-lines"></h2>
 
 ### Experience & Education 💼
-- 2023 — Full-stack Developer Bootcamp @ Ironhack 
-- 2023 — Full-stack Developer Apprentice @ Subvisual  
-- 2024 — Full-stack Developer @ Talent Protocol  
-- 2025 — Frontend Developer @ Aquasis (current)
+- 2023 | Full-stack Developer Bootcamp @ Ironhack 
+- 2023 – 2024 | Full-stack Developer Apprentice @ Subvisual  
+- 2024 – 2025 | Full-stack Developer @ Talent Protocol  
+- 2025 – Present | Frontend Developer @ Aquasis
 
 <h2 class="hr-lines"></h2>
 
