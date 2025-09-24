@@ -17,4 +17,4 @@ Currently focused on building web applications with **React, Next.js, TypeScript
 
 <h2 class="hr-lines"></h2>
 
-> ℹ️ This is my new GitHub account (2025). I moved all my projects here from a previous account.
+> ℹ️ This is a new GitHub account (2025). All my projects were moved here from my previous account.
